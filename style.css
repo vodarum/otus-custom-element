@@ -1,0 +1,8 @@
+my-leaf {
+    display: list-item;
+    margin-left: 2rem;
+}
+
+my-tree {
+    display: block;
+}
